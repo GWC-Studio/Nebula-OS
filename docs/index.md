@@ -2,6 +2,8 @@
 
 欢迎来到 Nebula-OS 文档！这里你可以找到所有组件的详细安装和使用指南。
 
+> **🚀 终极目标**：基于 Debian Testing 构建一个独立的 GNU/Linux 发行版，将主题、游戏优化与 AI 工具整合为开箱即用的游戏系统。
+
 ## 快速导航
 
 ### 🎨 [Nebula Theme for KDE Plasma](nebula-theme/)
