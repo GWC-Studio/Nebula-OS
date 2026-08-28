@@ -8,6 +8,7 @@ Nebula-OS 是一个专注于游戏体验的 Linux 生态系统，致力于提供
 [![GitHub issues](https://img.shields.io/github/issues/GWC-Studio/Nebula-OS?style=for-the-badge&color=blue)](https://github.com/GWC-Studio/Nebula-OS/issues)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Docs](https://img.shields.io/badge/Docs-Online-green?style=for-the-badge)](docs/)
+[![Pages](https://img.shields.io/badge/Pages-文档站-purple?style=for-the-badge)](https://gwc-studio.github.io/Nebula-OS/)
 
 ---
 
